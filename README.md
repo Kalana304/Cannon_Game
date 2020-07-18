@@ -28,3 +28,9 @@ For the visualization I chose pie charts and when clicked on a wedge, it draws t
 </p>
 
 <img src="images/CompanyA.jpg" title="Company A" wspace="20">   <img src="images/CompanyB.jpg" title="Company B" wspace="20">
+
+<p align="justify">
+The following shows the visualization of the data on the GUI created from Tkinter.
+</p>
+
+
