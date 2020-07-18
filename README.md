@@ -13,4 +13,4 @@ Thsi is a simple calculator designed using Tkinter that is capable of performing
 
 <p align="center">
   <img src="images/calculator_GUI.png" align="center">
-<\p>
+</p>
