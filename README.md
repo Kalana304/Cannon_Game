@@ -26,4 +26,4 @@ Thsi is a simple calculator designed using Tkinter that is capable of performing
 Here a simple dashboard is created using tkinter. Data for each company is saved in seperate sheets of an excel file with the company name as the sheet name. The sheet names are loaded and are shown as a drop down menue from which you can select the company we need to explore the details. Each company is provided with main catgories (can be products or services) and sub_catgories with the scores as a percentage for each section. Goal of this GUI is to visulaize the relative proportions of scores of the categories and when clicked on a particular category on the visualization, it should pop up a similar visualization of the sub_categories of it. <br/>
 For the visualization I chose pie charts and when clicked on a wedge, it draws the second pie chart for sub categories. Following samples shows an example of the data file the script has considered. 
 </p>
-<img src="images/CompanyA.jpg"> <img src="images/CompanyB.jpg"/>
+<img src="images/CompanyA.jpg"> <img src="images/CompanyB.jpg" align="right>
