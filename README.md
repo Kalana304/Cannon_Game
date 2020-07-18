@@ -27,4 +27,4 @@ Here a simple dashboard is created using tkinter. Data for each company is saved
 For the visualization I chose pie charts and when clicked on a wedge, it draws the second pie chart for sub categories. Following samples shows an example of the data file the script has considered. 
 </p>
 
-<img src="images/CompanyA.jpg" title="Company A" hspace="20">    <img src="images/CompanyB.jpg" title="Company B" hspace="20">
+<img src="images/CompanyA.jpg" title="Company A" hspace="20"> <img src="images/CompanyB.jpg" title="Company B" hspace="20">
