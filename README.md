@@ -1,6 +1,6 @@
 # Tkinter
-Tkinter is the standard Python interface to the Tk GUI toolkit which provides tools for an easy and simple GUI creation. This is a good toolkit to start with for GUI design specially when you need some sort of simple GUI to show your work running in the backend. <https://docs.python.org/3/library/tkinter.html>
-
+Tkinter is the standard Python interface to the Tk GUI toolkit which provides tools for an easy and simple GUI creation. This is a good toolkit to start with for GUI design specially when you need some sort of simple GUI to show your work running in the backend. <https://docs.python.org/3/library/tkinter.html> <br/>
+This repo consists few works where a simple GUI was required to show the works in a more user attractive way. 
 
 ## Cannon_Game
 <p align="justify">
@@ -33,4 +33,10 @@ For the visualization I chose pie charts and when clicked on a wedge, it draws t
 The following shows the visualization of the data on the GUI created from Tkinter.
 </p>
 
+<p align="center">
+  <img src="images/Window01.png" align="center">
+  <img src="images/CategoryView.png" align="center">
+</p>
 
+
+There are alot of open-source tutorials that let you to learn on how to design GUIs using Tkinter. This is ideal when you require a simple GUI to be designed using python, rather than using new frameworks. However, Tkinter does not provide much options to make your GUI more user attractive like using php or javascript. 
