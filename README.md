@@ -13,12 +13,16 @@ The script can be further developed to refresh at every attempt rather than draw
 </p>
 
 ## Simple Calculator design
+<p align="justify">
 Thsi is a simple calculator designed using Tkinter that is capable of performing general mathematical operation, i.e. addition, subtraction, division and multiplication. Further, it is capable of performing the square root function, power of 2 and +/- operations. This can be extended for a scientific calculator as well with extra functions. 
+</p>
 
 <p align="center">
   <img src="images/calculator_GUI.png" align="center">
 </p>
 
 ## Simple Analytical Dashboard
+<p align="justify">
 Here a simple dashboard is created using tkinter. Data for each company is saved in seperate sheets of an excel file with the company name as the sheet name. The sheet names are loaded and are shown as a drop down menue from which you can select the company we need to explore the details. Each company is provided with main catgories (can be products or services) and sub_catgories with the scores as a percentage for each section. Goal of this GUI is to visulaize the relative proportions of scores of the categories and when clicked on a particular category on the visualization, it should pop up a similar visualization of the sub_categories of it. <br/>
 For the visualization I chose pie charts and when clicked on a wedge, it draws the second pie chart for sub categories.
+</p>
