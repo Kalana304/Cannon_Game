@@ -6,7 +6,9 @@ This is a simple GUI development of the famous canon game using Tkinter package 
 Goal is to select the correct combination of Strength and Angle such that the Canon Ball flies over the obstacle and land on the target place. The path of the canon ball is rendered on to the canvas. There is the option of taking air friction into consideration while the ball is moving. 
 The script can be further developed to refresh at every attempt rather than drawing on the same canvas. 
 
-<img src="images/CanonBall_GUI.png" width="1080" height="720">
+<p align="center">
+  <img src="images/CanonBall_GUI.png">
+</p>
 
 ## Simple Calculator design
 Thsi is a simple calculator designed using Tkinter that is capable of performing general mathematical operation, i.e. addition, subtraction, division and multiplication. Further, it is capable of performing the square root function, power of 2 and +/- operations. This can be extended for a scientific calculator as well with extra functions. 
