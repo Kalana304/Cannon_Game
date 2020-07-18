@@ -1,6 +1,5 @@
 # Tkinter
-Tkinter is the standard Python interface to the Tk GUI toolkit which provides tools for an easy and simple GUI creation. This is a good toolkit to start with for GUI design specially when you need some sort of simple GUI to show your work running in the backend. 
-![](https://docs.python.org/3/library/tkinter.html)
+Tkinter is the standard Python interface to the Tk GUI toolkit which provides tools for an easy and simple GUI creation. This is a good toolkit to start with for GUI design specially when you need some sort of simple GUI to show your work running in the backend. <https://docs.python.org/3/library/tkinter.html>
 
 ## Cannon_Game
 This is a simple GUI development of the famous canon game using Tkinter package of python. The GUI interface created can select the Angle of the canon to shoot in a range of 0 to 90 degrees using a slider and select the Strength with which the ball is shot in a continuous scale from 0-200N slider. 
