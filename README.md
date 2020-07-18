@@ -34,7 +34,7 @@ The following shows the visualization of the data on the GUI created from Tkinte
 </p>
 
 <p align="center">
-  <img src="images/Window01.png" align="center">
+  <img src="images/Window01.png" align="center"/> <br/>
   <img src="images/CategoryView.png" align="center">
 </p>
 
