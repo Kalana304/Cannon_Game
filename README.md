@@ -1,0 +1,2 @@
+# Cannon_Game
+This is a simple GUI development of the famous canon game using Tkinter package of python. Tkinter is the standard Python interface to the Tk GUI toolkit. The interface created can select the angle of the canon to shoot in a range of 0 to 90 degrees and select the force with which the ball is shot in a continuous scale from 0-200N. The path of the canon ball is rendered on to the canvas.  
