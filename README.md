@@ -11,4 +11,4 @@ The script can be further developed to refresh at every attempt rather than draw
 # Simple Calculator design
 Thsi is a simple calculator designed using Tkinter that is capable of performing general mathematical operation, i.e. addition, subtraction, division and multiplication. Further, it is capable of performing the square root function, power of 2 and +/- operations. This can be extended for a scientific calculator as well with extra functions. 
 
-<img src="images/calculator_GUI.png" width="1080" height="720" >
+<img src="images/calculator_GUI.png">
