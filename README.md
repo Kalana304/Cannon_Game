@@ -45,4 +45,4 @@ The following shows the visualization of the data on the GUI created from Tkinte
 There are alot of open-source tutorials that let you to learn on how to design GUIs using Tkinter. This is ideal when you require a simple GUI to be designed using python, rather than using new frameworks. However, Tkinter does not provide much options to make your GUI more user attractive like using php or javascript. 
 
 ## Number Grid Copy/Paste GUI
-![Watch the video]("images/GUI with Tkinter - Demo.mp4")
+![GUI Execution](https://github.com/Kalana304/Tkinter-GUI-Design/blob/master/images/GUI%20with%20Tkinter%20-%20Demo.mp4)
